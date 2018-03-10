@@ -1,0 +1,7 @@
+name: "Info 201 Final"
+output_dir: "."
+navbar:
+  title: "Police Shootings in the United States: A Data-Based Perspective"
+  left: 
+    -text: "Project"
+     href: index.html
